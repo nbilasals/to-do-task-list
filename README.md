@@ -1,5 +1,4 @@
-# to-do-task-list
-# 📚 EduTask - Educator To-Do List Application
+# EduTask - Educator To-Do List Application
 
 ## Overview
 
